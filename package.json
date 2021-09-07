@@ -1,0 +1,20 @@
+{
+  "name": "example-indexeddb-based-contact-form",
+  "version": "1.0.0",
+  "description": "This basic example shows how to use indexedDB.  It instanciates a local database, has a form to add records, and an area to show saved records, and show delete functionality.",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.2",
+    "serve": "^12.0.0"
+  }
+}
